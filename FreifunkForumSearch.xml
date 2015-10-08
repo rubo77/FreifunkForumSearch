@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-  <ShortName>FreifunkForumSearch</ShortName>
+  <ShortName>ffSearch</ShortName>
   <LongName>Search in forum.freifunk.net</LongName>
   <Description>Search in the german forum for openwifi https://forum.freifunk.net</Description>
   <Image type="image/vnd.microsoft.icon" height="16" width="16">https://freifunk.net/favicon.ico</Image>
